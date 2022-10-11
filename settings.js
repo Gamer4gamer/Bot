@@ -57,15 +57,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['916204450258'] //ur owner number
 global.ownername = "🦄Amir Sohel" //ur owner name
 global.ytname = "YT: NAR Tv" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "INSTAGRAM: izb_Champ" //ur github or insta name
 global.location = "India, Jharkhand, Ranchi" //ur location
 
 //bot bomdy 
 global.owner = ['916204450258']
 global.ownertag = '916204450258' //ur tag number
-global.botname = 'ALPHA99' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.botname = 'ALFA 11' //ur bot name
+global.linkz = "https://youtu.be/LYvjkzvPR-o" //your theme url which will be displayed on whatsapp
+global.websitex = "https://sohelmessi786.wixsite.com/tech-info" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
